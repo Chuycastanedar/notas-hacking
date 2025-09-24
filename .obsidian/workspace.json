@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - Web/05-picobrowser.md",
+                "file": "picoCTF/02 - Web/03-Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-picobrowser"
+              "title": "03-Scavenger Hunt"
             }
           }
         ]
@@ -171,9 +171,13 @@
   },
   "active": "9f5705cef17cfa9c",
   "lastOpenFiles": [
-    "picoCTF/01 - Web/06-Client-side-again.md",
+    "picoCTF/02 - Web/02-Cookies.md",
+    "picoCTF/02 - Web/03-Scavenger Hunt.md",
+    "picoCTF/02 - Web/01-GET aHEAD.md",
     "Plantilla.md",
     "picoCTF/01 - Web/05-picobrowser.md",
+    "picoCTF/02 - Web",
+    "picoCTF/01 - Web/06-Client-side-again.md",
     "picoCTF/01 - Web/04-dont-use-client-side.md",
     "picoCTF/01 - Web/03-logon.md",
     "picoCTF/01 - Web/02-where are the robots.md",
@@ -195,9 +199,6 @@
     "picoCTF/02- General Skills/10-First Find.md",
     "picoCTF/02- General Skills/09-Big zip.md",
     "picoCTF/02- General Skills/08-repetitions.md",
-    "picoCTF/02- General Skills/07-Magikarp Ground Mission.md",
-    "picoCTF/02- General Skills/06-Tab, Tab, Attack.md",
-    "picoCTF/02- General Skills/03-Wave a flag.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03- General Skills",
     "picoCTF/02- General Skills",
