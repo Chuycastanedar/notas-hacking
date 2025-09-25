@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - Web/03-Scavenger Hunt.md",
+                "file": "picoCTF/03 - Web/More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Scavenger Hunt"
+              "title": "More SQLi"
             }
           }
         ]
@@ -171,10 +171,15 @@
   },
   "active": "9f5705cef17cfa9c",
   "lastOpenFiles": [
-    "picoCTF/02 - Web/02-Cookies.md",
-    "picoCTF/02 - Web/03-Scavenger Hunt.md",
-    "picoCTF/02 - Web/01-GET aHEAD.md",
+    "picoCTF/03 - Web/JaWT Scratchpad.md",
+    "picoCTF/03 - Web/Irish-Name-Repo 1.md",
+    "picoCTF/03 - Web/More SQLi.md",
     "Plantilla.md",
+    "picoCTF/02 - Web/03-Scavenger Hunt.md",
+    "picoCTF/03 - Web",
+    "picoCTF/Sin título.md",
+    "picoCTF/02 - Web/02-Cookies.md",
+    "picoCTF/02 - Web/01-GET aHEAD.md",
     "picoCTF/01 - Web/05-picobrowser.md",
     "picoCTF/02 - Web",
     "picoCTF/01 - Web/06-Client-side-again.md",
@@ -195,13 +200,9 @@
     "picoCTF/Tarea 1 - General Skills/05-Time Machine.md",
     "picoCTF/Tarea 1 - General Skills/09-binhexa.md",
     "Sin título.md",
-    "picoCTF/01 - General Skills/10-Nice netcat.md",
-    "picoCTF/02- General Skills/10-First Find.md",
-    "picoCTF/02- General Skills/09-Big zip.md",
-    "picoCTF/02- General Skills/08-repetitions.md",
     "picoCTF/Tarea 1 - General Skills",
-    "picoCTF/03- General Skills",
-    "picoCTF/02- General Skills",
+    "picoCTF/03 - General Skills",
+    "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills",
     "Sin nombre",
     "picoCTF",
