@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3af25f83435af46a",
+        "id": "eb8679f9135faca8",
         "type": "tabs",
         "children": [
           {
-            "id": "9f5705cef17cfa9c",
+            "id": "0ac417773fb89ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 2 - Web/WebDecode.md",
+                "file": "picoCTF/04 - Web/04-Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebDecode"
+              "title": "04-Trickster"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "right": {
     "id": "477fd70b34460235",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "file": "picoCTF/04 - Web/04-Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 01-Lets Warm Up"
+              "title": "Enlaces entrantes de 04-Trickster"
             }
           },
           {
@@ -169,8 +169,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9f5705cef17cfa9c",
+  "active": "0ac417773fb89ed9",
   "lastOpenFiles": [
+    "picoCTF/04 - Web/03-SOAP.md",
+    "picoCTF/04 - Web/02-Most Cookies.md",
+    "picoCTF/04 - Web/01-MatchTheRegex.md",
+    "picoCTF/04 - Web/04-Trickster.md",
+    "Sin título.base",
+    "Plantilla.md",
+    "README.md",
+    "picoCTF/03 - Web/More SQLi.md",
+    "picoCTF/03 - Web/JaWT Scratchpad.md",
+    "picoCTF/03 - Web/Irish-Name-Repo 1.md",
+    "picoCTF/Tarea 2 - Web/WebDecode.md",
+    "picoCTF/04 - Web",
     "picoCTF/Tarea 2 - Web/Includes.md",
     "picoCTF/Tarea 2 - Web/Inspect HTML.md",
     "picoCTF/Tarea 2 - Web/IntroToBurp.md",
@@ -180,13 +192,8 @@
     "picoCTF/Tarea 2 - Web/Secrets.md",
     "picoCTF/Tarea 2 - Web/SQLiLite.md",
     "picoCTF/Tarea 2 - Web/Unminify.md",
-    "picoCTF/Tarea 2 - Web/WebDecode.md",
-    "picoCTF/03 - Web/More SQLi.md",
-    "Plantilla.md",
     "picoCTF/Tarea 2 - Web/Sin nombre",
     "picoCTF/Tarea 2 - Web",
-    "picoCTF/03 - Web/JaWT Scratchpad.md",
-    "picoCTF/03 - Web/Irish-Name-Repo 1.md",
     "picoCTF/02 - Web/03-Scavenger Hunt.md",
     "picoCTF/03 - Web",
     "picoCTF/Sin título.md",
@@ -195,17 +202,9 @@
     "picoCTF/01 - Web/05-picobrowser.md",
     "picoCTF/02 - Web",
     "picoCTF/01 - Web/06-Client-side-again.md",
-    "picoCTF/01 - Web/04-dont-use-client-side.md",
-    "picoCTF/01 - Web/03-logon.md",
-    "picoCTF/01 - Web/02-where are the robots.md",
-    "picoCTF/01 - Web/01-Insp3ct0r.md",
-    "picoCTF/01 - General Skills/01-Lets Warm Up.md",
-    "picoCTF/Tarea 1 - General Skills/08-Binary Search.md",
     "picoCTF/01 - Web",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03 - General Skills",
-    "picoCTF/02 - General Skills",
-    "picoCTF/01 - General Skills",
-    "Sin nombre"
+    "picoCTF/02 - General Skills"
   ]
 }
