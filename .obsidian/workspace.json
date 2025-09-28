@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/04 - Web/04-Trickster.md",
+                "file": "picoCTF/03 - Web/03-More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Trickster"
+              "title": "03-More SQLi"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/04 - Web/04-Trickster.md",
+                "file": "picoCTF/03 - Web/03-More SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 04-Trickster"
+              "title": "Enlaces entrantes de 03-More SQLi"
             }
           },
           {
@@ -171,16 +171,16 @@
   },
   "active": "0ac417773fb89ed9",
   "lastOpenFiles": [
+    "picoCTF/03 - Web/02-JaWT Scratchpad.md",
+    "picoCTF/03 - Web/01-Irish-Name-Repo 1.md",
+    "picoCTF/04 - Web/04-Trickster.md",
     "picoCTF/04 - Web/03-SOAP.md",
     "picoCTF/04 - Web/02-Most Cookies.md",
     "picoCTF/04 - Web/01-MatchTheRegex.md",
-    "picoCTF/04 - Web/04-Trickster.md",
     "Sin título.base",
     "Plantilla.md",
     "README.md",
-    "picoCTF/03 - Web/More SQLi.md",
-    "picoCTF/03 - Web/JaWT Scratchpad.md",
-    "picoCTF/03 - Web/Irish-Name-Repo 1.md",
+    "picoCTF/03 - Web/03-More SQLi.md",
     "picoCTF/Tarea 2 - Web/WebDecode.md",
     "picoCTF/04 - Web",
     "picoCTF/Tarea 2 - Web/Includes.md",
