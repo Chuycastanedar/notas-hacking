@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - Forensic/05-What Lies Within.md",
+                "file": "picoCTF/02 - Forensic/05-shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-What Lies Within"
+              "title": "05-shark on wire 2"
             }
           }
         ]
@@ -171,16 +171,16 @@
   },
   "active": "2dd793caf756e4ea",
   "lastOpenFiles": [
+    "picoCTF/02 - Forensic/04-like1000.md",
+    "picoCTF/02 - Forensic/03-c0rrupt.md",
+    "picoCTF/02 - Forensic/02-WhitePages.md",
+    "picoCTF/02 - Forensic/01-m00nwalk.md",
+    "picoCTF/02 - Forensic/05-shark on wire 2.md",
+    "picoCTF/01 - Forensic/05-What Lies Within.md",
     "picoCTF/01 - Forensic/04-extensions.md",
     "picoCTF/01 - Forensic/03-shark on wire 1.md",
     "picoCTF/01 - Forensic/02-So Meta.md",
     "picoCTF/01 - Forensic/01-Glory of the Garden.md",
-    "picoCTF/01 - Forensic/05-What Lies Within.md",
-    "picoCTF/02 - Forensic/WhitePages.md",
-    "picoCTF/02 - Forensic/shark on wire 2.md",
-    "picoCTF/02 - Forensic/m00nwalk.md",
-    "picoCTF/02 - Forensic/like1000.md",
-    "picoCTF/02 - Forensic/c0rrupt.md",
     "picoCTF/Primer Exámen Parcial/Parte 1 - General Skills/01-FANTASY CTF.md",
     "picoCTF/Primer Exámen Parcial/Parte 1 - General Skills/03-Python Wrangling.md",
     "picoCTF/Primer Exámen Parcial/Parte 1 - General Skills/05-Rust fixme 2.md",
