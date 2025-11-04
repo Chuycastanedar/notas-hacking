@@ -1,0 +1,27 @@
+
+## Descripción
+
+How about we take you on an adventure on exploring certificate signing requests Take a look at this CSR file [here](https://artifacts.picoctf.net/c/425/readmycert.csr).
+
+## Solución
+
+Inicio descargando el archivo en un directorio usando el comando wget.
+
+Veo el tipo de archivo
+```bash
+┌──(kali㉿kali)-[~/Downloads]
+└─$ file readmycert.csr 
+readmycert.csr: PEM certificate request
+```
+
+Al leerlo tiene contenido que parece ser base 64, pero intento convertirlo en terminal y no es válido.
+
+Al intentarlo con cyberchef, logro identificar la bandera:
+`picoCTF{read_mycert_693f7c03}`
+
+## Notas adicionales
+
+
+## Referencias
+
+https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=TUlJQ3B6Q0NBWThDQVFBd1BERW1NQ1FHQTFVRUF3d2RjR2xqYjBOVVJudHlaV0ZrWDIxNVkyVnlkRjgyT1RObQpOMk13TTMweEVqQVFCZ05WQkNrTUNXTjBabEJzWVhsbGNqQ0NBU0l3RFFZSktvWklodmNOQVFFQkJRQURnZ0VQCkFEQ0NBUW9DZ2dFQkFQcCtYdURCM1prbXJrdkFzZ3RqUCttakljWURXZnB0dVpzSmlldTZlUmwzOXdsNFNnMzgKKy9PZlkyNExWOXNObWdLeVRHdnBtQ2FVb1pNWWt2a3VsWVNvRnpFMHhxUEJvNmtydUxFeUl2cXFwQUZxUkgyYgptaWVyTFQ2UmNLZ0pIWXIvVnQ2U3dQOE5DQ2F3Q3J2aFE0TlpjdUI0OUhyLzJBaUdIem1mODYvbEcvYytsaG1ICmd5cVBiMWtEZ2hzVnhpL0dOczlpN0FnbmlaaWtxVDhPVHAwSU5tbUNnWnRKbjFKbzYxNUl1L3RGaUM4U2ZoaGcKUUhtVERMamd4MW9QMWt2WlYyUEU1VVVOL29DMDVadXA4ZjMxTGtzWFp3cGF6Wkt3WUMvTGJOOTZIZHFnVlE5SwpTOGUvNEk3TUpRbVBtTElzTHAzc2RMMkZpREdNTDNzbUFpMENBd0VBQWFBbU1DUUdDU3FHU0liM0RRRUpEakVYCk1CVXdFd1lEVlIwbEJBd3dDZ1lJS3dZQkJRVUhBd0l3RFFZSktvWklodmNOQVFFTEJRQURnZ0VCQU94U1I4RnMKVGRqZnU5ZTB2Uk5xS1dkMDlJU21ZRFFjM3FuU2JMUmxZWnlNSzRwZ3VBTHEzMTBoLzFuTmdVUldFU2JOSlBPcApGa0JXRzBYV2hXeVdQN3JUcXhvL3BrOUFLeDBUTmJIRHJTNktpQm5LUHEwbXhqUFpzSDFMN3dOWURjNU9BTkRsCmJ0dm4zelQ3bE1tczZ6MXFNN3hVV1hSNzZuMnhMLzgxY2RGNzI1bkJaMDBtV21QVzBTMXBTbUE0RUVIQ0VnTlcKMHZXUXFzSURraTNnWWM0TkNtOE9Iang3OWtjd0Ura3N5YzZ2SGdNT3dzWW9PRkpueWF5aGwxNW9OLzN4N2hXMwpHMXhvdlB1cEFCcGZPU05PY1R3YmdmcmZqVURPTHgvd2lydmo5TDFONUVHRGg0Rk9MYVJaRHMrdE1yaW1HQkJTCnpHVTEzQm55a21RNWpPUT0K&oeol=CR
