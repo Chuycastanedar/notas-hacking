@@ -1,0 +1,6 @@
+# Ignorar archivos y carpetas de Obsidian
+.obsidian/
+.trash/
+
+# Ignorar todos los archivos .canvas
+*.canvas
